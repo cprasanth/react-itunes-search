@@ -1,0 +1,161 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> renders correctly 1`] = `
+<div
+  className="MuiContainer-root makeStyles-root-1 MuiContainer-maxWidthSm"
+>
+  <h6
+    className="MuiTypography-root MuiTypography-h6 MuiTypography-gutterBottom"
+  >
+    iTunes Search
+  </h6>
+  <div
+    aria-label="search type"
+    className="MuiToggleButtonGroup-root"
+    role="group"
+  >
+    <button
+      aria-label="song"
+      aria-pressed={true}
+      className="MuiButtonBase-root MuiToggleButton-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal Mui-selected"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+      value="song"
+    >
+      <span
+        className="MuiToggleButton-label"
+      >
+        Song
+      </span>
+    </button>
+    <button
+      aria-label="album"
+      aria-pressed={false}
+      className="MuiButtonBase-root MuiToggleButton-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+      value="album"
+    >
+      <span
+        className="MuiToggleButton-label"
+      >
+        Album
+      </span>
+    </button>
+    <button
+      aria-label="artist"
+      aria-pressed={false}
+      className="MuiButtonBase-root MuiToggleButton-root MuiToggleButtonGroup-grouped MuiToggleButtonGroup-groupedHorizontal"
+      disabled={false}
+      onBlur={[Function]}
+      onChange={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+      value="artist"
+    >
+      <span
+        className="MuiToggleButton-label"
+      >
+        Artist
+      </span>
+    </button>
+  </div>
+  <form
+    className="MuiPaper-root makeStyles-root-2 MuiPaper-elevation1 MuiPaper-rounded"
+  >
+    <div
+      className="MuiInputBase-root makeStyles-input-3"
+      onClick={[Function]}
+      onKeyPress={[Function]}
+    >
+      <input
+        aria-label="search iTunes"
+        className="MuiInputBase-input"
+        onAnimationStart={[Function]}
+        onBlur={[Function]}
+        onChange={[Function]}
+        onFocus={[Function]}
+        placeholder="Search iTunes"
+        type="text"
+        value=""
+      />
+    </div>
+    <button
+      aria-label="search"
+      className="MuiButtonBase-root MuiIconButton-root makeStyles-iconButton-4"
+      disabled={false}
+      onBlur={[Function]}
+      onClick={[Function]}
+      onDragLeave={[Function]}
+      onFocus={[Function]}
+      onKeyDown={[Function]}
+      onKeyUp={[Function]}
+      onMouseDown={[Function]}
+      onMouseLeave={[Function]}
+      onMouseUp={[Function]}
+      onTouchEnd={[Function]}
+      onTouchMove={[Function]}
+      onTouchStart={[Function]}
+      tabIndex={0}
+      type="button"
+    >
+      <span
+        className="MuiIconButton-label"
+      >
+        <svg
+          aria-hidden={true}
+          className="MuiSvgIcon-root"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+          />
+        </svg>
+      </span>
+    </button>
+  </form>
+  <div
+    className="makeStyles-loader-7"
+  />
+</div>
+`;
