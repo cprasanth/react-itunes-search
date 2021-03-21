@@ -1,6 +1,5 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/cadee761-30a3-4efc-a45d-e36ab74d5dd9/deploy-status)](https://app.netlify.com/sites/react-redux-itunes-search/deploys)
 # React iTunes Search
-A demo application for iTunes search API developed using ReactJS, Redux, ReduxSaga and MaterialUI\
+A demo application for iTunes search API developed using ReactJS, Redux, Redux Saga and MaterialUI
 
 ## Available Scripts
 
